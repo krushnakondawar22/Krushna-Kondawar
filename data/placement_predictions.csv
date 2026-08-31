@@ -1,0 +1,501 @@
+Student_ID,Branch,Diploma_Percentage,CGPA,Attendance_Percent,Aptitude_Score,Technical_Score,Communication_Skill,Internship_Completed,Projects_Count,Placement_Status,Predicted_Placement_Status,Placement_Probability_Percent,Risk_Level
+STU0001,Computer,82.6,8.69,85.4,88,70,Good,Yes,4,Placed,Placed,99.93,Placement Ready
+STU0002,Civil,64.1,6.75,92.5,6,10,Average,No,4,Not Placed,Not Placed,8.84,High Risk
+STU0003,Mechanical,87.2,9.18,94.2,40,76,Excellent,No,5,Placed,Placed,96.0,Placement Ready
+STU0004,Mechanical,78.4,8.25,74.2,46,10,Good,No,5,Placed,Placed,80.76,Placement Ready
+STU0005,Computer,45.2,4.76,75.0,80,5,Poor,Yes,4,Not Placed,Not Placed,32.59,High Risk
+STU0006,E&TC,93.7,9.86,88.4,13,11,Excellent,Yes,2,Not Placed,Not Placed,26.33,High Risk
+STU0007,E&TC,81.9,8.62,65.1,43,46,Average,No,3,Placed,Placed,87.02,Placement Ready
+STU0008,E&TC,83.2,8.76,90.2,15,62,Poor,No,2,Not Placed,Not Placed,19.54,High Risk
+STU0009,Computer,47.0,4.95,73.7,79,41,Average,Yes,3,Placed,Placed,77.72,Placement Ready
+STU0010,Mechanical,64.8,6.82,55.6,63,12,Good,No,4,Not Placed,Not Placed,20.74,High Risk
+STU0011,E&TC,60.4,6.36,53.5,50,20,Poor,Yes,2,Not Placed,Not Placed,16.76,High Risk
+STU0012,Electrical,91.0,9.58,90.4,39,86,Average,Yes,3,Placed,Placed,98.47,Placement Ready
+STU0013,Computer,75.4,7.94,52.7,15,97,Poor,Yes,0,Placed,Placed,69.48,Moderate
+STU0014,Computer,85.3,8.98,63.5,93,76,Average,Yes,4,Placed,Placed,99.71,Placement Ready
+STU0015,Mechanical,64.4,6.78,66.0,65,10,Average,Yes,2,Not Placed,Not Placed,10.05,High Risk
+STU0016,E&TC,52.5,5.53,58.3,32,82,Good,No,2,Not Placed,Not Placed,14.01,High Risk
+STU0017,Computer,70.5,7.42,65.1,41,69,Average,Yes,3,Placed,Placed,84.94,Placement Ready
+STU0018,E&TC,43.5,4.58,85.6,73,53,Poor,Yes,1,Not Placed,Not Placed,30.55,High Risk
+STU0019,Civil,85.5,9.0,50.7,72,14,Good,Yes,3,Placed,Placed,89.41,Placement Ready
+STU0020,E&TC,74.7,7.86,89.7,46,100,Average,Yes,4,Placed,Placed,96.64,Placement Ready
+STU0021,E&TC,81.7,8.6,91.1,30,44,Good,Yes,2,Placed,Placed,88.09,Placement Ready
+STU0022,Mechanical,59.5,6.26,67.9,66,4,Poor,No,0,Not Placed,Not Placed,7.12,High Risk
+STU0023,E&TC,93.4,9.83,57.4,66,21,Poor,Yes,2,Placed,Placed,91.61,Placement Ready
+STU0024,Computer,89.1,9.38,78.8,60,40,Average,No,1,Placed,Placed,88.91,Placement Ready
+STU0025,Mechanical,82.8,8.72,55.7,7,6,Average,No,2,Not Placed,Not Placed,10.57,High Risk
+STU0026,Mechanical,50.7,5.34,67.5,47,32,Average,Yes,3,Not Placed,Not Placed,13.58,High Risk
+STU0027,Computer,65.7,6.92,96.0,62,47,Good,No,0,Placed,Placed,78.34,Placement Ready
+STU0028,Computer,42.4,4.46,97.8,95,95,Average,No,4,Placed,Placed,93.67,Placement Ready
+STU0029,Computer,48.5,5.11,87.1,53,8,Good,No,1,Not Placed,Not Placed,12.12,High Risk
+STU0030,Computer,77.6,8.17,64.9,34,58,Good,No,5,Placed,Placed,92.44,Placement Ready
+STU0031,Mechanical,81.0,8.53,83.0,56,92,Poor,No,4,Placed,Placed,96.39,Placement Ready
+STU0032,Computer,93.2,9.81,83.9,17,81,Good,No,1,Placed,Placed,90.54,Placement Ready
+STU0033,Computer,57.9,6.09,68.6,9,93,Average,No,3,Not Placed,Not Placed,14.0,High Risk
+STU0034,E&TC,60.4,6.36,80.8,68,17,Average,Yes,0,Not Placed,Not Placed,29.67,High Risk
+STU0035,Computer,65.8,6.93,50.5,99,80,Poor,No,0,Placed,Placed,82.47,Placement Ready
+STU0036,Computer,50.4,5.31,60.0,85,98,Good,No,5,Placed,Placed,89.61,Placement Ready
+STU0037,Computer,47.1,4.96,75.2,58,32,Excellent,No,4,Not Placed,Not Placed,19.25,High Risk
+STU0038,Computer,66.2,6.97,57.9,4,50,Poor,Yes,0,Not Placed,Not Placed,7.17,High Risk
+STU0039,Electrical,52.5,5.53,58.0,99,53,Good,Yes,1,Placed,Placed,75.58,Placement Ready
+STU0040,E&TC,76.8,8.08,90.1,45,49,Good,Yes,1,Placed,Placed,93.44,Placement Ready
+STU0041,Civil,64.0,6.74,97.5,29,29,Average,Yes,2,Not Placed,Not Placed,19.09,High Risk
+STU0042,Electrical,85.8,9.03,76.7,90,98,Good,Yes,1,Placed,Placed,99.71,Placement Ready
+STU0043,Computer,78.5,8.26,90.3,75,96,Good,Yes,1,Placed,Placed,99.93,Placement Ready
+STU0044,Civil,57.2,6.02,97.5,75,38,Excellent,Yes,3,Placed,Placed,87.26,Placement Ready
+STU0045,Computer,85.8,9.03,56.8,28,81,Excellent,Yes,1,Placed,Placed,91.62,Placement Ready
+STU0046,Civil,84.3,8.87,71.5,100,40,Poor,Yes,5,Placed,Placed,96.65,Placement Ready
+STU0047,Electrical,61.3,6.45,68.8,45,80,Average,No,4,Placed,Placed,81.29,Placement Ready
+STU0048,E&TC,55.9,5.88,53.8,53,59,Good,Yes,4,Placed,Placed,70.29,Placement Ready
+STU0049,Mechanical,77.5,8.16,86.3,75,47,Poor,Yes,1,Placed,Placed,96.37,Placement Ready
+STU0050,Civil,47.7,5.02,70.8,66,12,Average,Yes,4,Not Placed,Not Placed,16.28,High Risk
+STU0051,Electrical,51.0,5.37,72.5,17,66,Excellent,Yes,5,Placed,Placed,69.36,Moderate
+STU0052,Electrical,40.4,4.25,57.2,30,32,Poor,Yes,1,Not Placed,Not Placed,3.43,High Risk
+STU0053,E&TC,83.3,8.77,58.7,36,21,Average,No,4,Not Placed,Placed,60.93,Moderate
+STU0054,Civil,76.6,8.06,93.5,95,19,Good,No,2,Placed,Placed,90.47,Placement Ready
+STU0055,Electrical,78.8,8.29,52.1,72,99,Average,Yes,4,Placed,Placed,97.39,Placement Ready
+STU0056,Electrical,82.9,8.73,61.2,36,10,Average,No,2,Not Placed,Not Placed,44.11,High Risk
+STU0057,Civil,65.2,6.86,64.0,74,80,Excellent,Yes,4,Placed,Placed,92.43,Placement Ready
+STU0058,Mechanical,71.3,7.51,73.5,74,87,Average,Yes,0,Placed,Placed,97.14,Placement Ready
+STU0059,Computer,47.7,5.02,78.1,39,3,Poor,Yes,2,Not Placed,Not Placed,3.23,High Risk
+STU0060,Electrical,46.3,4.87,73.7,40,59,Poor,Yes,1,Not Placed,Not Placed,9.36,High Risk
+STU0061,Computer,76.8,8.08,54.0,90,58,Excellent,No,1,Placed,Placed,90.52,Placement Ready
+STU0062,Computer,65.9,6.94,61.7,56,36,Average,No,1,Not Placed,Not Placed,13.21,High Risk
+STU0063,Electrical,71.1,7.48,90.5,15,67,Good,No,2,Placed,Placed,81.26,Placement Ready
+STU0064,Civil,82.1,8.64,80.6,72,41,Poor,Yes,0,Placed,Placed,86.94,Placement Ready
+STU0065,Civil,74.9,7.88,81.2,59,44,Average,No,4,Placed,Placed,88.18,Placement Ready
+STU0066,Mechanical,70.4,7.41,82.2,51,43,Excellent,Yes,3,Placed,Placed,94.44,Placement Ready
+STU0067,Electrical,70.8,7.45,86.6,73,80,Good,Yes,4,Placed,Placed,96.74,Placement Ready
+STU0068,Computer,56.7,5.97,52.8,91,63,Excellent,Yes,4,Placed,Placed,91.76,Placement Ready
+STU0069,Civil,41.7,4.39,67.6,33,38,Average,No,0,Not Placed,Not Placed,5.87,High Risk
+STU0070,Mechanical,64.0,6.74,75.9,42,93,Good,No,0,Placed,Placed,83.33,Placement Ready
+STU0071,Civil,51.8,5.45,66.2,19,81,Excellent,Yes,2,Not Placed,Not Placed,16.25,High Risk
+STU0072,E&TC,62.5,6.58,90.5,65,94,Average,No,2,Placed,Placed,95.25,Placement Ready
+STU0073,Civil,86.9,9.15,73.2,40,73,Average,No,1,Placed,Placed,91.11,Placement Ready
+STU0074,Mechanical,52.9,5.57,86.9,34,39,Excellent,No,4,Not Placed,Not Placed,22.49,High Risk
+STU0075,E&TC,43.2,4.55,90.9,70,78,Average,Yes,3,Placed,Placed,92.65,Placement Ready
+STU0076,Civil,55.5,5.84,74.2,41,33,Good,No,4,Not Placed,Not Placed,7.22,High Risk
+STU0077,Civil,56.1,5.91,93.7,46,27,Excellent,No,0,Not Placed,Not Placed,13.85,High Risk
+STU0078,E&TC,76.4,8.04,78.2,44,45,Average,No,4,Placed,Placed,83.71,Placement Ready
+STU0079,E&TC,70.6,7.43,90.8,26,97,Average,Yes,1,Placed,Placed,93.49,Placement Ready
+STU0080,Computer,83.1,8.75,66.3,12,57,Poor,No,2,Not Placed,Not Placed,8.82,High Risk
+STU0081,E&TC,76.5,8.05,73.9,83,38,Average,Yes,2,Placed,Placed,92.06,Placement Ready
+STU0082,Civil,62.4,6.57,75.5,9,46,Average,No,4,Not Placed,Not Placed,19.13,High Risk
+STU0083,Mechanical,84.8,8.93,55.0,32,29,Good,Yes,1,Not Placed,Not Placed,27.71,High Risk
+STU0084,Mechanical,49.2,5.18,69.1,67,66,Average,Yes,1,Not Placed,Not Placed,33.08,High Risk
+STU0085,Civil,41.2,4.34,94.0,13,35,Good,Yes,2,Not Placed,Not Placed,10.97,High Risk
+STU0086,Mechanical,45.0,4.74,80.3,66,55,Average,Yes,2,Placed,Placed,65.72,Moderate
+STU0087,Electrical,79.7,8.39,58.5,74,37,Average,Yes,1,Placed,Placed,88.3,Placement Ready
+STU0088,Civil,65.4,6.88,66.3,66,32,Average,Yes,1,Not Placed,Not Placed,17.62,High Risk
+STU0089,Civil,48.9,5.15,59.2,30,97,Good,Yes,1,Placed,Placed,61.83,Moderate
+STU0090,E&TC,67.6,7.12,51.2,1,34,Average,Yes,2,Not Placed,Not Placed,5.16,High Risk
+STU0091,Computer,48.4,5.09,94.5,89,7,Average,No,2,Not Placed,Not Placed,47.55,Moderate
+STU0092,Mechanical,78.3,8.24,71.5,32,38,Excellent,No,2,Placed,Placed,63.2,Moderate
+STU0093,E&TC,64.5,6.79,64.8,81,53,Good,No,4,Placed,Placed,81.78,Placement Ready
+STU0094,Electrical,61.0,6.42,78.7,19,9,Average,Yes,1,Not Placed,Not Placed,8.99,High Risk
+STU0095,Mechanical,56.6,5.96,50.4,16,30,Excellent,Yes,5,Not Placed,Not Placed,5.34,High Risk
+STU0096,Mechanical,74.7,7.86,63.3,78,16,Average,No,4,Not Placed,Not Placed,20.03,High Risk
+STU0097,Mechanical,59.9,6.31,83.7,94,50,Poor,Yes,1,Placed,Placed,82.14,Placement Ready
+STU0098,Electrical,44.8,4.72,80.4,86,73,Average,Yes,1,Placed,Placed,84.17,Placement Ready
+STU0099,Mechanical,46.5,4.89,97.1,75,97,Poor,No,1,Placed,Placed,95.71,Placement Ready
+STU0100,Civil,92.9,9.78,79.8,24,39,Average,No,1,Not Placed,Not Placed,28.5,High Risk
+STU0101,Electrical,90.0,9.47,72.9,92,87,Good,Yes,2,Placed,Placed,99.28,Placement Ready
+STU0102,Civil,78.5,8.26,86.5,67,21,Poor,No,0,Placed,Placed,68.08,Moderate
+STU0103,Computer,54.6,5.75,93.4,17,78,Good,Yes,0,Not Placed,Not Placed,22.14,High Risk
+STU0104,Civil,93.3,9.82,84.6,13,56,Excellent,No,2,Placed,Placed,82.71,Placement Ready
+STU0105,E&TC,82.8,8.72,96.2,87,76,Good,Yes,4,Placed,Placed,98.75,Placement Ready
+STU0106,Computer,79.4,8.36,87.5,27,76,Good,Yes,1,Placed,Placed,94.11,Placement Ready
+STU0107,Mechanical,64.7,6.81,91.6,77,53,Good,No,5,Placed,Placed,94.87,Placement Ready
+STU0108,Civil,55.0,5.79,55.5,14,25,Excellent,Yes,2,Not Placed,Not Placed,6.24,High Risk
+STU0109,Civil,45.3,4.77,85.2,28,53,Average,No,5,Not Placed,Not Placed,9.46,High Risk
+STU0110,Civil,89.6,9.43,71.1,28,83,Average,Yes,1,Placed,Placed,86.53,Placement Ready
+STU0111,Electrical,65.1,6.85,76.5,28,98,Good,No,3,Placed,Placed,87.93,Placement Ready
+STU0112,Civil,51.1,5.38,81.4,68,93,Good,No,4,Placed,Placed,93.46,Placement Ready
+STU0113,Civil,56.8,5.98,96.6,92,18,Average,Yes,0,Not Placed,Not Placed,27.56,High Risk
+STU0114,Computer,71.9,7.57,97.3,91,60,Good,No,5,Placed,Placed,95.43,Placement Ready
+STU0115,Civil,49.7,5.23,63.8,74,10,Poor,Yes,2,Not Placed,Not Placed,13.31,High Risk
+STU0116,Electrical,87.1,9.17,85.2,20,67,Excellent,Yes,2,Placed,Placed,96.75,Placement Ready
+STU0117,Computer,81.7,8.6,86.0,97,100,Average,Yes,3,Placed,Placed,98.93,Placement Ready
+STU0118,Electrical,79.6,8.38,66.6,54,5,Poor,No,3,Not Placed,Not Placed,19.92,High Risk
+STU0119,Electrical,63.8,6.72,55.9,55,66,Poor,No,0,Placed,Placed,75.0,Placement Ready
+STU0120,Computer,74.5,7.84,52.0,70,95,Average,No,5,Placed,Placed,95.35,Placement Ready
+STU0121,E&TC,72.1,7.59,87.3,77,85,Average,No,3,Placed,Placed,96.65,Placement Ready
+STU0122,Mechanical,75.7,7.97,73.5,96,39,Poor,No,5,Placed,Placed,93.08,Placement Ready
+STU0123,Mechanical,44.6,4.69,97.3,58,10,Average,Yes,2,Not Placed,Not Placed,42.39,High Risk
+STU0124,Electrical,62.9,6.62,72.3,61,93,Average,No,3,Placed,Placed,84.13,Placement Ready
+STU0125,E&TC,42.3,4.45,96.9,75,93,Average,No,2,Placed,Placed,92.75,Placement Ready
+STU0126,Civil,67.2,7.07,69.8,25,58,Average,Yes,5,Placed,Placed,63.99,Moderate
+STU0127,Civil,58.1,6.12,88.1,31,98,Average,No,4,Placed,Placed,77.46,Placement Ready
+STU0128,Mechanical,47.9,5.04,54.1,63,0,Average,Yes,5,Not Placed,Not Placed,15.68,High Risk
+STU0129,E&TC,45.7,4.81,76.7,6,62,Poor,Yes,3,Not Placed,Not Placed,15.96,High Risk
+STU0130,E&TC,72.3,7.61,88.5,32,3,Poor,Yes,4,Not Placed,Not Placed,8.19,High Risk
+STU0131,Electrical,49.4,5.2,94.4,72,94,Average,Yes,2,Placed,Placed,95.66,Placement Ready
+STU0132,Electrical,90.9,9.57,89.5,98,68,Good,Yes,2,Placed,Placed,100.0,Placement Ready
+STU0133,Computer,72.0,7.58,51.8,52,92,Excellent,No,4,Placed,Placed,93.92,Placement Ready
+STU0134,Civil,59.1,6.22,67.9,40,56,Excellent,No,0,Not Placed,Not Placed,42.25,High Risk
+STU0135,E&TC,72.5,7.63,52.3,44,8,Good,Yes,4,Not Placed,Not Placed,16.17,High Risk
+STU0136,Electrical,41.3,4.35,55.2,69,2,Good,Yes,0,Not Placed,Not Placed,22.4,High Risk
+STU0137,Electrical,92.7,9.76,82.4,54,33,Average,Yes,3,Placed,Placed,97.2,Placement Ready
+STU0138,Electrical,66.5,7.0,84.2,2,75,Good,Yes,2,Placed,Placed,71.69,Placement Ready
+STU0139,Computer,83.1,8.75,87.1,54,15,Good,No,2,Placed,Placed,81.9,Placement Ready
+STU0140,Civil,44.6,4.69,91.5,40,86,Good,Yes,2,Placed,Placed,87.75,Placement Ready
+STU0141,Civil,66.8,7.03,85.5,70,24,Excellent,No,2,Placed,Placed,78.69,Placement Ready
+STU0142,E&TC,67.0,7.05,88.4,88,50,Average,No,2,Placed,Placed,87.99,Placement Ready
+STU0143,E&TC,91.6,9.64,52.4,97,20,Good,No,2,Placed,Placed,87.94,Placement Ready
+STU0144,Electrical,71.4,7.52,61.3,61,47,Good,No,3,Placed,Placed,80.68,Placement Ready
+STU0145,E&TC,66.0,6.95,79.9,36,45,Average,Yes,4,Not Placed,Not Placed,29.93,High Risk
+STU0146,Electrical,54.7,5.76,91.2,44,0,Excellent,No,3,Not Placed,Not Placed,9.36,High Risk
+STU0147,Civil,58.2,6.13,50.2,17,57,Poor,No,3,Not Placed,Not Placed,14.57,High Risk
+STU0148,Civil,68.6,7.22,74.7,94,79,Excellent,No,5,Placed,Placed,93.83,Placement Ready
+STU0149,E&TC,64.1,6.75,82.5,85,94,Good,No,5,Placed,Placed,96.35,Placement Ready
+STU0150,Civil,41.2,4.34,51.4,86,33,Poor,No,0,Not Placed,Not Placed,21.57,High Risk
+STU0151,Computer,85.4,8.99,69.3,33,88,Good,No,4,Placed,Placed,94.75,Placement Ready
+STU0152,Computer,89.3,9.4,93.0,32,88,Poor,Yes,1,Placed,Placed,94.01,Placement Ready
+STU0153,Electrical,47.7,5.02,82.2,86,99,Good,No,1,Placed,Placed,94.41,Placement Ready
+STU0154,Electrical,70.5,7.42,61.4,54,37,Good,No,4,Not Placed,Not Placed,29.53,High Risk
+STU0155,Civil,46.0,4.84,90.9,71,85,Good,Yes,0,Placed,Placed,92.55,Placement Ready
+STU0156,Electrical,77.0,8.11,66.7,49,57,Excellent,No,5,Placed,Placed,96.8,Placement Ready
+STU0157,Electrical,55.5,5.84,91.0,44,5,Poor,Yes,4,Not Placed,Not Placed,11.58,High Risk
+STU0158,E&TC,76.3,8.03,64.3,63,27,Average,No,5,Placed,Placed,71.22,Placement Ready
+STU0159,Mechanical,80.0,8.42,78.3,82,67,Average,Yes,4,Placed,Placed,96.21,Placement Ready
+STU0160,Electrical,82.3,8.66,69.1,33,16,Poor,Yes,5,Not Placed,Not Placed,29.9,High Risk
+STU0161,Electrical,45.9,4.83,63.2,81,43,Average,No,0,Not Placed,Not Placed,17.71,High Risk
+STU0162,Electrical,90.4,9.52,92.6,24,78,Average,Yes,5,Placed,Placed,89.31,Placement Ready
+STU0163,E&TC,52.7,5.55,59.0,40,15,Average,Yes,0,Not Placed,Not Placed,12.16,High Risk
+STU0164,E&TC,42.1,4.43,54.1,92,50,Average,Yes,1,Not Placed,Not Placed,22.42,High Risk
+STU0165,Electrical,70.5,7.42,66.4,96,21,Excellent,Yes,0,Placed,Placed,75.34,Placement Ready
+STU0166,Electrical,60.4,6.36,84.4,93,54,Average,No,2,Placed,Placed,86.48,Placement Ready
+STU0167,Electrical,85.6,9.01,88.8,31,24,Excellent,No,4,Placed,Placed,78.55,Placement Ready
+STU0168,Computer,84.5,8.89,97.9,85,97,Average,Yes,1,Placed,Placed,98.38,Placement Ready
+STU0169,Electrical,57.4,6.04,64.2,94,7,Average,No,4,Not Placed,Not Placed,13.47,High Risk
+STU0170,Mechanical,92.4,9.73,69.6,98,97,Good,Yes,3,Placed,Placed,98.69,Placement Ready
+STU0171,Computer,56.0,5.89,56.6,2,79,Average,No,3,Not Placed,Not Placed,8.45,High Risk
+STU0172,Computer,68.3,7.19,77.6,75,86,Average,Yes,5,Placed,Placed,92.89,Placement Ready
+STU0173,Electrical,54.1,5.69,97.9,100,86,Good,Yes,2,Placed,Placed,94.57,Placement Ready
+STU0174,Computer,91.5,9.63,83.6,77,18,Average,Yes,2,Placed,Placed,95.33,Placement Ready
+STU0175,Civil,49.1,5.17,78.6,23,94,Average,No,5,Not Placed,Not Placed,20.46,High Risk
+STU0176,Electrical,42.5,4.47,68.8,77,60,Good,Yes,3,Placed,Placed,73.68,Placement Ready
+STU0177,Mechanical,63.9,6.73,93.9,10,97,Average,Yes,3,Placed,Placed,83.19,Placement Ready
+STU0178,Civil,94.6,9.96,73.9,48,88,Good,No,1,Placed,Placed,98.01,Placement Ready
+STU0179,Electrical,89.0,9.37,56.4,63,58,Average,No,1,Placed,Placed,92.83,Placement Ready
+STU0180,Civil,81.2,8.55,67.5,46,37,Excellent,Yes,1,Placed,Placed,78.93,Placement Ready
+STU0181,Civil,89.0,9.37,53.2,70,11,Good,No,1,Placed,Placed,68.9,Moderate
+STU0182,Computer,89.1,9.38,59.7,24,10,Excellent,No,1,Not Placed,Not Placed,22.83,High Risk
+STU0183,Mechanical,68.5,7.21,50.8,61,39,Good,Yes,4,Placed,Placed,81.66,Placement Ready
+STU0184,Electrical,57.4,6.04,71.8,65,81,Poor,No,0,Placed,Placed,87.65,Placement Ready
+STU0185,E&TC,82.5,8.68,80.5,64,51,Good,Yes,3,Placed,Placed,96.68,Placement Ready
+STU0186,Computer,76.4,8.04,66.5,29,48,Average,No,5,Placed,Placed,80.84,Placement Ready
+STU0187,Computer,60.6,6.38,70.2,30,24,Good,Yes,4,Not Placed,Not Placed,8.8,High Risk
+STU0188,E&TC,45.2,4.76,96.0,26,57,Good,No,2,Not Placed,Not Placed,10.68,High Risk
+STU0189,E&TC,81.1,8.54,86.1,46,64,Average,Yes,0,Placed,Placed,97.12,Placement Ready
+STU0190,Computer,54.4,5.73,76.0,59,99,Excellent,Yes,5,Placed,Placed,96.11,Placement Ready
+STU0191,Electrical,91.5,9.63,63.7,36,73,Poor,No,0,Placed,Placed,83.08,Placement Ready
+STU0192,Civil,53.3,5.61,93.1,41,61,Good,Yes,4,Placed,Placed,75.65,Placement Ready
+STU0193,Computer,46.8,4.93,61.3,28,91,Good,No,4,Not Placed,Not Placed,37.2,High Risk
+STU0194,Mechanical,85.7,9.02,65.6,22,42,Poor,No,1,Not Placed,Not Placed,18.9,High Risk
+STU0195,Mechanical,48.4,5.09,93.6,66,94,Good,No,4,Placed,Placed,93.35,Placement Ready
+STU0196,Civil,49.9,5.25,75.4,82,37,Good,Yes,1,Not Placed,Not Placed,24.84,High Risk
+STU0197,Mechanical,73.0,7.68,85.6,29,12,Poor,No,1,Not Placed,Not Placed,30.56,High Risk
+STU0198,Electrical,88.1,9.27,78.4,86,42,Good,Yes,4,Placed,Placed,96.6,Placement Ready
+STU0199,Mechanical,50.8,5.35,81.4,57,13,Average,Yes,5,Not Placed,Not Placed,17.53,High Risk
+STU0200,Civil,57.1,6.01,64.4,16,11,Good,No,1,Not Placed,Not Placed,0.35,High Risk
+STU0201,Computer,82.8,8.72,61.6,36,89,Poor,No,5,Placed,Placed,82.12,Placement Ready
+STU0202,Mechanical,93.5,9.84,65.5,0,80,Excellent,Yes,5,Placed,Placed,89.5,Placement Ready
+STU0203,Mechanical,67.5,7.11,57.5,3,22,Excellent,Yes,4,Not Placed,Not Placed,12.61,High Risk
+STU0204,E&TC,47.9,5.04,92.0,33,84,Average,No,0,Not Placed,Not Placed,22.61,High Risk
+STU0205,E&TC,40.8,4.29,63.6,45,6,Average,No,1,Not Placed,Not Placed,3.95,High Risk
+STU0206,Electrical,52.6,5.54,77.0,80,28,Good,Yes,4,Placed,Placed,79.92,Placement Ready
+STU0207,Computer,47.3,4.98,88.0,13,71,Good,No,5,Not Placed,Not Placed,10.55,High Risk
+STU0208,Civil,77.3,8.14,87.6,84,30,Average,Yes,4,Placed,Placed,95.62,Placement Ready
+STU0209,Electrical,46.7,4.92,71.0,23,73,Average,Yes,2,Not Placed,Not Placed,10.69,High Risk
+STU0210,E&TC,67.8,7.14,72.9,13,88,Poor,No,1,Not Placed,Not Placed,10.51,High Risk
+STU0211,Mechanical,78.2,8.23,97.7,70,6,Excellent,No,5,Placed,Placed,75.47,Placement Ready
+STU0212,E&TC,72.0,7.58,82.4,78,2,Average,Yes,1,Not Placed,Not Placed,17.6,High Risk
+STU0213,E&TC,51.0,5.37,89.1,61,94,Excellent,Yes,2,Placed,Placed,85.91,Placement Ready
+STU0214,Mechanical,84.2,8.86,93.3,11,52,Average,Yes,5,Placed,Placed,88.84,Placement Ready
+STU0215,Civil,79.3,8.35,87.8,11,51,Excellent,No,3,Placed,Placed,57.31,Moderate
+STU0216,Mechanical,80.6,8.48,58.9,39,46,Poor,Yes,1,Placed,Placed,78.65,Placement Ready
+STU0217,Mechanical,47.2,4.97,77.0,45,43,Poor,Yes,0,Not Placed,Not Placed,12.34,High Risk
+STU0218,Mechanical,46.8,4.93,54.9,100,69,Excellent,No,2,Placed,Placed,78.16,Placement Ready
+STU0219,Civil,91.0,9.58,81.3,28,58,Excellent,Yes,5,Placed,Placed,96.68,Placement Ready
+STU0220,Mechanical,61.9,6.52,95.9,19,16,Average,No,2,Not Placed,Not Placed,8.27,High Risk
+STU0221,Civil,56.6,5.96,74.6,95,63,Average,Yes,4,Placed,Placed,88.59,Placement Ready
+STU0222,Electrical,66.9,7.04,70.8,15,67,Average,No,1,Not Placed,Not Placed,21.91,High Risk
+STU0223,Civil,76.5,8.05,51.7,2,11,Average,Yes,4,Not Placed,Not Placed,43.48,High Risk
+STU0224,E&TC,92.6,9.75,96.1,42,38,Average,Yes,4,Placed,Placed,94.43,Placement Ready
+STU0225,Computer,55.8,5.87,54.9,40,79,Excellent,Yes,3,Placed,Placed,78.08,Placement Ready
+STU0226,E&TC,90.9,9.57,52.0,62,62,Average,No,4,Placed,Placed,92.14,Placement Ready
+STU0227,Computer,41.4,4.36,61.8,88,13,Good,No,3,Placed,Placed,60.05,Moderate
+STU0228,Electrical,70.5,7.42,53.1,94,4,Poor,Yes,2,Placed,Not Placed,45.14,Moderate
+STU0229,Mechanical,74.9,7.88,71.8,29,58,Poor,Yes,4,Not Placed,Placed,75.1,Placement Ready
+STU0230,Civil,45.8,4.82,74.8,99,46,Good,No,5,Placed,Placed,69.32,Moderate
+STU0231,Civil,47.7,5.02,65.0,63,97,Average,Yes,5,Placed,Placed,88.45,Placement Ready
+STU0232,E&TC,63.1,6.64,52.4,7,52,Good,Yes,1,Not Placed,Not Placed,6.39,High Risk
+STU0233,Electrical,93.1,9.8,55.4,94,94,Poor,No,4,Placed,Placed,97.48,Placement Ready
+STU0234,E&TC,72.8,7.66,68.5,13,21,Excellent,Yes,0,Not Placed,Not Placed,10.64,High Risk
+STU0235,Mechanical,91.3,9.61,52.9,59,45,Good,Yes,3,Placed,Placed,83.03,Placement Ready
+STU0236,Mechanical,84.2,8.86,83.5,79,14,Excellent,Yes,3,Placed,Placed,94.47,Placement Ready
+STU0237,Mechanical,65.7,6.92,59.9,25,57,Poor,Yes,2,Not Placed,Not Placed,14.85,High Risk
+STU0238,Electrical,83.2,8.76,64.5,27,19,Average,Yes,5,Not Placed,Placed,59.57,Moderate
+STU0239,Civil,41.0,4.32,68.9,48,49,Average,No,5,Not Placed,Not Placed,8.26,High Risk
+STU0240,E&TC,46.0,4.84,70.0,89,34,Good,No,0,Not Placed,Not Placed,16.24,High Risk
+STU0241,Mechanical,85.6,9.01,50.1,22,18,Average,Yes,1,Not Placed,Not Placed,14.96,High Risk
+STU0242,Mechanical,83.8,8.82,55.4,67,9,Poor,No,1,Not Placed,Not Placed,24.25,High Risk
+STU0243,E&TC,52.8,5.56,91.4,45,51,Average,Yes,5,Not Placed,Not Placed,27.77,High Risk
+STU0244,Electrical,69.2,7.28,50.1,11,95,Average,No,3,Not Placed,Not Placed,27.99,High Risk
+STU0245,Mechanical,73.3,7.72,74.4,71,20,Average,Yes,4,Placed,Placed,81.44,Placement Ready
+STU0246,E&TC,87.7,9.23,73.5,84,40,Average,No,4,Placed,Placed,91.78,Placement Ready
+STU0247,Electrical,73.2,7.71,66.0,58,22,Average,Yes,4,Not Placed,Not Placed,45.29,Moderate
+STU0248,E&TC,62.7,6.6,70.7,17,81,Good,Yes,0,Placed,Not Placed,41.87,High Risk
+STU0249,E&TC,60.6,6.38,87.5,15,41,Average,Yes,0,Placed,Placed,66.23,Moderate
+STU0250,E&TC,63.4,6.67,90.4,42,98,Average,Yes,2,Placed,Placed,92.68,Placement Ready
+STU0251,Electrical,75.9,7.99,62.5,51,24,Good,Yes,2,Placed,Placed,66.55,Moderate
+STU0252,Civil,87.7,9.23,65.5,55,8,Good,No,4,Placed,Placed,70.45,Placement Ready
+STU0253,E&TC,65.0,6.84,61.6,24,58,Average,No,0,Not Placed,Not Placed,9.78,High Risk
+STU0254,Mechanical,53.6,5.64,73.0,50,65,Good,Yes,2,Not Placed,Not Placed,36.81,High Risk
+STU0255,Computer,53.0,5.58,82.8,29,100,Excellent,No,1,Placed,Placed,79.47,Placement Ready
+STU0256,Mechanical,81.0,8.53,61.0,69,88,Good,No,1,Placed,Placed,91.14,Placement Ready
+STU0257,Civil,84.9,8.94,65.9,80,89,Excellent,No,1,Placed,Placed,95.53,Placement Ready
+STU0258,Electrical,45.8,4.82,94.7,65,64,Good,No,1,Not Placed,Placed,71.42,Placement Ready
+STU0259,Computer,43.7,4.6,52.3,0,36,Poor,No,3,Not Placed,Not Placed,5.64,High Risk
+STU0260,Electrical,72.7,7.65,72.1,100,43,Average,Yes,2,Placed,Placed,93.26,Placement Ready
+STU0261,Computer,48.0,5.05,84.2,2,13,Good,No,2,Not Placed,Not Placed,4.97,High Risk
+STU0262,Electrical,85.4,8.99,57.2,100,43,Excellent,No,2,Placed,Placed,95.11,Placement Ready
+STU0263,Electrical,57.1,6.01,52.3,3,36,Average,Yes,4,Not Placed,Not Placed,3.51,High Risk
+STU0264,Civil,47.9,5.04,56.6,52,3,Poor,Yes,5,Not Placed,Not Placed,24.99,High Risk
+STU0265,Electrical,90.7,9.55,94.1,10,20,Good,Yes,3,Placed,Placed,78.5,Placement Ready
+STU0266,Electrical,49.1,5.17,50.4,9,53,Poor,No,3,Not Placed,Not Placed,8.93,High Risk
+STU0267,Civil,55.7,5.86,59.0,69,37,Good,Yes,4,Placed,Placed,74.66,Placement Ready
+STU0268,Civil,48.4,5.09,51.5,73,100,Good,No,4,Placed,Placed,80.22,Placement Ready
+STU0269,E&TC,46.4,4.88,55.3,11,48,Good,No,0,Not Placed,Not Placed,3.7,High Risk
+STU0270,Mechanical,41.2,4.34,79.8,98,96,Excellent,No,5,Placed,Placed,81.81,Placement Ready
+STU0271,Electrical,43.0,4.53,61.6,32,66,Good,Yes,0,Not Placed,Not Placed,19.04,High Risk
+STU0272,Mechanical,49.6,5.22,77.3,32,4,Good,No,2,Not Placed,Not Placed,0.93,High Risk
+STU0273,Electrical,42.9,4.52,78.3,29,20,Good,No,3,Not Placed,Not Placed,5.88,High Risk
+STU0274,Computer,72.5,7.63,90.8,46,71,Good,Yes,2,Placed,Placed,97.13,Placement Ready
+STU0275,Electrical,77.4,8.15,50.2,17,55,Excellent,No,1,Placed,Placed,72.77,Placement Ready
+STU0276,Computer,61.6,6.48,91.0,42,30,Poor,Yes,5,Not Placed,Not Placed,18.26,High Risk
+STU0277,Electrical,57.5,6.05,79.7,21,52,Good,No,0,Not Placed,Not Placed,10.88,High Risk
+STU0278,E&TC,67.7,7.13,57.8,5,91,Average,Yes,1,Not Placed,Not Placed,14.19,High Risk
+STU0279,E&TC,88.1,9.27,87.1,37,39,Excellent,Yes,5,Placed,Placed,89.18,Placement Ready
+STU0280,Electrical,86.8,9.14,91.1,67,4,Good,Yes,4,Placed,Placed,91.0,Placement Ready
+STU0281,Computer,42.4,4.46,62.2,77,31,Average,Yes,0,Not Placed,Not Placed,11.83,High Risk
+STU0282,Mechanical,50.0,5.26,94.1,35,94,Average,Yes,4,Not Placed,Placed,69.07,Moderate
+STU0283,Computer,53.0,5.58,71.8,32,76,Average,No,5,Placed,Not Placed,35.28,High Risk
+STU0284,Civil,53.7,5.65,79.0,79,84,Good,Yes,0,Placed,Placed,88.26,Placement Ready
+STU0285,E&TC,71.4,7.52,97.3,68,92,Average,Yes,2,Placed,Placed,98.28,Placement Ready
+STU0286,Electrical,62.9,6.62,67.4,84,11,Poor,No,2,Not Placed,Not Placed,12.3,High Risk
+STU0287,Computer,42.7,4.49,89.0,91,28,Excellent,No,0,Not Placed,Not Placed,20.24,High Risk
+STU0288,Computer,60.5,6.37,65.3,82,6,Good,Yes,1,Not Placed,Not Placed,14.54,High Risk
+STU0289,E&TC,68.8,7.24,88.4,94,0,Average,No,1,Not Placed,Not Placed,14.76,High Risk
+STU0290,Mechanical,45.6,4.8,78.8,42,84,Average,Yes,1,Not Placed,Placed,59.76,Moderate
+STU0291,Computer,85.8,9.03,60.4,39,94,Excellent,No,2,Placed,Placed,98.55,Placement Ready
+STU0292,Computer,42.9,4.52,69.9,32,15,Good,Yes,2,Not Placed,Not Placed,1.81,High Risk
+STU0293,Mechanical,90.9,9.57,65.2,23,72,Good,No,1,Placed,Placed,83.53,Placement Ready
+STU0294,Civil,45.5,4.79,53.7,75,54,Average,No,1,Not Placed,Not Placed,12.14,High Risk
+STU0295,E&TC,86.4,9.09,51.4,72,6,Average,No,1,Not Placed,Not Placed,25.83,High Risk
+STU0296,Mechanical,89.6,9.43,66.6,80,92,Poor,No,4,Placed,Placed,95.61,Placement Ready
+STU0297,Civil,93.9,9.88,50.9,16,87,Good,No,1,Placed,Placed,83.34,Placement Ready
+STU0298,Computer,84.1,8.85,57.9,49,57,Poor,Yes,5,Placed,Placed,95.73,Placement Ready
+STU0299,Computer,82.9,8.73,84.8,22,71,Poor,No,3,Not Placed,Not Placed,26.78,High Risk
+STU0300,Computer,75.3,7.93,84.0,90,40,Good,No,4,Placed,Placed,94.92,Placement Ready
+STU0301,E&TC,82.8,8.72,85.5,27,80,Excellent,No,3,Placed,Placed,91.2,Placement Ready
+STU0302,Electrical,47.4,4.99,65.2,14,44,Good,Yes,1,Not Placed,Not Placed,6.13,High Risk
+STU0303,E&TC,69.5,7.32,92.7,57,99,Average,Yes,3,Placed,Placed,96.97,Placement Ready
+STU0304,Computer,68.3,7.19,78.5,88,6,Average,No,1,Not Placed,Not Placed,14.95,High Risk
+STU0305,Computer,87.2,9.18,56.0,92,17,Average,Yes,0,Placed,Placed,87.29,Placement Ready
+STU0306,E&TC,65.5,6.89,56.9,9,97,Average,Yes,1,Not Placed,Not Placed,22.42,High Risk
+STU0307,Computer,61.2,6.44,83.3,32,29,Good,Yes,1,Not Placed,Not Placed,23.57,High Risk
+STU0308,Computer,75.2,7.92,58.3,15,31,Average,No,0,Not Placed,Not Placed,19.07,High Risk
+STU0309,Electrical,54.7,5.76,74.4,31,79,Good,Yes,0,Placed,Placed,70.04,Placement Ready
+STU0310,Civil,47.7,5.02,97.6,53,19,Excellent,Yes,5,Placed,Placed,82.39,Placement Ready
+STU0311,Mechanical,66.3,6.98,50.2,28,51,Excellent,Yes,3,Placed,Placed,77.74,Placement Ready
+STU0312,Electrical,62.9,6.62,50.8,6,28,Poor,No,2,Not Placed,Not Placed,6.93,High Risk
+STU0313,Civil,52.8,5.56,97.7,51,19,Average,No,5,Placed,Placed,74.22,Placement Ready
+STU0314,Electrical,60.2,6.34,78.1,5,97,Average,Yes,1,Placed,Placed,73.59,Placement Ready
+STU0315,Mechanical,60.2,6.34,56.1,22,20,Average,Yes,2,Not Placed,Not Placed,3.49,High Risk
+STU0316,Computer,58.0,6.11,93.1,0,9,Average,No,5,Not Placed,Not Placed,3.16,High Risk
+STU0317,Electrical,60.9,6.41,92.3,8,68,Average,Yes,3,Not Placed,Placed,64.37,Moderate
+STU0318,E&TC,77.7,8.18,75.7,44,87,Good,No,2,Placed,Placed,94.93,Placement Ready
+STU0319,Civil,56.3,5.93,79.8,85,12,Average,Yes,1,Placed,Not Placed,28.82,High Risk
+STU0320,E&TC,92.2,9.71,63.1,78,71,Excellent,No,0,Placed,Placed,98.29,Placement Ready
+STU0321,Computer,90.4,9.52,52.4,9,54,Poor,Yes,0,Not Placed,Not Placed,32.65,High Risk
+STU0322,Computer,66.5,7.0,78.5,3,83,Poor,No,0,Not Placed,Not Placed,16.24,High Risk
+STU0323,Electrical,58.1,6.12,64.1,34,12,Average,Yes,4,Not Placed,Not Placed,5.42,High Risk
+STU0324,Computer,69.4,7.31,81.9,65,98,Poor,No,3,Placed,Placed,97.27,Placement Ready
+STU0325,Electrical,86.7,9.13,90.1,75,62,Average,No,2,Placed,Placed,92.08,Placement Ready
+STU0326,E&TC,75.9,7.99,50.9,83,85,Excellent,No,4,Placed,Placed,94.88,Placement Ready
+STU0327,Mechanical,84.2,8.86,78.6,34,36,Average,Yes,0,Not Placed,Not Placed,29.54,High Risk
+STU0328,Electrical,69.3,7.29,61.1,16,95,Average,Yes,1,Placed,Placed,74.37,Placement Ready
+STU0329,Civil,74.8,7.87,91.9,2,63,Good,No,2,Not Placed,Not Placed,25.01,High Risk
+STU0330,Computer,55.8,5.87,62.2,14,12,Average,No,5,Not Placed,Not Placed,3.12,High Risk
+STU0331,E&TC,80.4,8.46,79.3,6,93,Good,Yes,3,Placed,Placed,85.39,Placement Ready
+STU0332,Mechanical,51.1,5.38,76.6,86,80,Average,Yes,5,Placed,Placed,90.93,Placement Ready
+STU0333,E&TC,78.2,8.23,69.0,27,30,Good,Yes,1,Not Placed,Not Placed,29.85,High Risk
+STU0334,Civil,87.3,9.19,82.5,83,55,Poor,No,5,Placed,Placed,97.6,Placement Ready
+STU0335,Computer,47.3,4.98,84.8,55,39,Average,No,0,Not Placed,Not Placed,14.43,High Risk
+STU0336,Civil,73.8,7.77,77.2,54,54,Good,No,1,Not Placed,Not Placed,35.88,High Risk
+STU0337,Computer,45.2,4.76,86.4,45,97,Excellent,No,3,Placed,Placed,81.99,Placement Ready
+STU0338,Electrical,79.9,8.41,97.2,82,90,Average,Yes,0,Placed,Placed,98.8,Placement Ready
+STU0339,E&TC,44.6,4.69,70.1,4,21,Good,Yes,5,Not Placed,Not Placed,6.81,High Risk
+STU0340,E&TC,91.5,9.63,74.7,9,98,Poor,Yes,5,Placed,Placed,93.3,Placement Ready
+STU0341,E&TC,47.6,5.01,50.6,42,44,Average,No,3,Not Placed,Not Placed,6.56,High Risk
+STU0342,Electrical,92.7,9.76,88.2,39,71,Poor,Yes,1,Placed,Placed,96.47,Placement Ready
+STU0343,Electrical,84.0,8.84,75.0,55,77,Good,Yes,0,Placed,Placed,93.46,Placement Ready
+STU0344,Mechanical,72.7,7.65,69.6,74,48,Average,Yes,3,Placed,Placed,87.5,Placement Ready
+STU0345,E&TC,83.0,8.74,54.5,59,46,Good,Yes,3,Placed,Placed,93.06,Placement Ready
+STU0346,Electrical,83.7,8.81,92.7,26,46,Poor,No,4,Not Placed,Not Placed,32.38,High Risk
+STU0347,Civil,92.0,9.68,69.0,33,87,Excellent,Yes,3,Placed,Placed,93.15,Placement Ready
+STU0348,Mechanical,53.9,5.67,82.8,75,39,Good,Yes,0,Placed,Placed,52.87,Moderate
+STU0349,Civil,72.5,7.63,57.2,20,28,Poor,No,0,Not Placed,Not Placed,8.56,High Risk
+STU0350,Mechanical,45.2,4.76,96.2,50,36,Poor,Yes,4,Placed,Placed,77.4,Placement Ready
+STU0351,Civil,73.9,7.78,58.6,54,19,Poor,Yes,0,Not Placed,Not Placed,24.65,High Risk
+STU0352,Computer,49.4,5.2,59.6,75,39,Excellent,Yes,5,Placed,Placed,73.77,Placement Ready
+STU0353,Computer,71.1,7.48,91.2,72,11,Average,No,0,Not Placed,Not Placed,48.02,Moderate
+STU0354,Mechanical,71.5,7.53,93.8,46,9,Good,Yes,4,Placed,Placed,74.44,Placement Ready
+STU0355,Electrical,65.6,6.91,60.2,31,73,Average,No,5,Placed,Placed,83.5,Placement Ready
+STU0356,Civil,68.7,7.23,72.6,37,7,Good,No,2,Not Placed,Not Placed,9.55,High Risk
+STU0357,Mechanical,82.0,8.63,85.2,41,57,Average,No,0,Placed,Placed,90.74,Placement Ready
+STU0358,Computer,84.0,8.84,92.2,22,78,Good,Yes,5,Placed,Placed,91.3,Placement Ready
+STU0359,Mechanical,67.1,7.06,68.2,63,73,Excellent,No,1,Placed,Placed,72.43,Placement Ready
+STU0360,Electrical,73.0,7.68,74.8,21,45,Average,Yes,3,Not Placed,Placed,57.36,Moderate
+STU0361,Electrical,91.2,9.6,85.6,65,19,Good,Yes,5,Placed,Placed,98.93,Placement Ready
+STU0362,Civil,46.6,4.91,85.1,75,93,Poor,Yes,4,Placed,Placed,94.13,Placement Ready
+STU0363,Mechanical,46.4,4.88,87.6,97,84,Average,Yes,0,Placed,Placed,89.35,Placement Ready
+STU0364,Civil,44.8,4.72,77.4,12,61,Excellent,Yes,4,Not Placed,Not Placed,19.85,High Risk
+STU0365,Civil,76.2,8.02,55.0,76,8,Good,Yes,0,Placed,Placed,73.59,Placement Ready
+STU0366,Civil,63.0,6.63,93.4,8,3,Good,Yes,4,Not Placed,Not Placed,9.59,High Risk
+STU0367,Electrical,82.6,8.69,91.5,34,31,Average,Yes,3,Placed,Placed,85.32,Placement Ready
+STU0368,E&TC,76.9,8.09,88.3,17,15,Average,No,1,Not Placed,Not Placed,6.35,High Risk
+STU0369,Mechanical,58.4,6.15,54.8,16,86,Average,No,2,Not Placed,Not Placed,7.29,High Risk
+STU0370,Civil,89.4,9.41,59.8,17,20,Good,Yes,0,Placed,Placed,69.87,Moderate
+STU0371,Computer,81.9,8.62,85.7,4,28,Average,No,5,Not Placed,Not Placed,20.31,High Risk
+STU0372,Computer,54.9,5.78,51.1,83,98,Average,Yes,1,Placed,Placed,87.19,Placement Ready
+STU0373,E&TC,60.0,6.32,97.0,6,82,Average,Yes,1,Placed,Placed,69.6,Moderate
+STU0374,Electrical,57.3,6.03,68.1,40,22,Average,Yes,3,Not Placed,Not Placed,12.77,High Risk
+STU0375,Civil,48.7,5.13,84.5,70,38,Average,Yes,4,Placed,Placed,87.77,Placement Ready
+STU0376,Civil,48.1,5.06,92.6,100,52,Poor,Yes,3,Placed,Placed,90.98,Placement Ready
+STU0377,Civil,91.5,9.63,68.9,86,67,Excellent,Yes,3,Placed,Placed,99.0,Placement Ready
+STU0378,Mechanical,64.1,6.75,65.3,13,94,Good,Yes,3,Not Placed,Not Placed,32.38,High Risk
+STU0379,Computer,61.1,6.43,79.2,99,87,Poor,Yes,5,Placed,Placed,90.66,Placement Ready
+STU0380,Computer,80.1,8.43,77.9,66,98,Good,Yes,2,Placed,Placed,98.6,Placement Ready
+STU0381,E&TC,70.4,7.41,69.6,18,4,Good,Yes,4,Not Placed,Not Placed,7.89,High Risk
+STU0382,Mechanical,91.5,9.63,78.9,45,23,Average,Yes,4,Placed,Placed,92.29,Placement Ready
+STU0383,Electrical,82.9,8.73,94.9,92,56,Average,Yes,5,Placed,Placed,97.0,Placement Ready
+STU0384,Electrical,66.4,6.99,72.4,39,4,Poor,Yes,5,Not Placed,Not Placed,15.95,High Risk
+STU0385,Computer,60.7,6.39,59.4,18,35,Poor,Yes,4,Not Placed,Not Placed,4.86,High Risk
+STU0386,Electrical,94.3,9.93,68.1,88,15,Good,Yes,1,Placed,Placed,90.75,Placement Ready
+STU0387,Computer,79.5,8.37,68.9,96,94,Excellent,Yes,4,Placed,Placed,97.67,Placement Ready
+STU0388,Computer,92.3,9.72,56.3,98,6,Poor,No,4,Placed,Placed,82.68,Placement Ready
+STU0389,Computer,46.5,4.89,57.8,96,14,Good,Yes,1,Not Placed,Not Placed,22.64,High Risk
+STU0390,E&TC,86.8,9.14,82.9,88,19,Poor,Yes,4,Placed,Placed,93.15,Placement Ready
+STU0391,Electrical,75.0,7.89,66.3,45,15,Good,Yes,1,Not Placed,Not Placed,24.52,High Risk
+STU0392,E&TC,46.7,4.92,95.8,19,57,Good,No,3,Not Placed,Not Placed,12.18,High Risk
+STU0393,Electrical,72.4,7.62,61.7,62,36,Average,No,4,Not Placed,Not Placed,27.33,High Risk
+STU0394,Mechanical,77.7,8.18,54.7,22,92,Poor,No,1,Not Placed,Not Placed,26.19,High Risk
+STU0395,Civil,40.7,4.28,86.2,47,26,Good,No,2,Not Placed,Not Placed,11.49,High Risk
+STU0396,E&TC,65.0,6.84,92.3,66,54,Excellent,Yes,4,Placed,Placed,94.87,Placement Ready
+STU0397,Electrical,85.4,8.99,63.3,95,66,Average,No,2,Placed,Placed,95.73,Placement Ready
+STU0398,Computer,56.2,5.92,59.7,29,63,Average,Yes,5,Not Placed,Not Placed,23.91,High Risk
+STU0399,Mechanical,65.2,6.86,58.9,25,80,Poor,No,0,Not Placed,Not Placed,23.85,High Risk
+STU0400,E&TC,64.3,6.77,75.1,74,20,Good,Yes,4,Placed,Placed,80.03,Placement Ready
+STU0401,Electrical,56.6,5.96,72.5,0,51,Good,Yes,4,Not Placed,Not Placed,15.32,High Risk
+STU0402,E&TC,90.5,9.53,62.5,57,80,Good,No,5,Placed,Placed,96.69,Placement Ready
+STU0403,Electrical,83.0,8.74,52.2,75,87,Good,Yes,0,Placed,Placed,96.93,Placement Ready
+STU0404,Computer,46.1,4.85,73.1,55,62,Excellent,No,5,Placed,Placed,51.67,Moderate
+STU0405,E&TC,94.8,9.98,96.0,38,65,Good,Yes,2,Placed,Placed,97.49,Placement Ready
+STU0406,Civil,88.4,9.31,81.3,83,87,Average,No,2,Placed,Placed,98.38,Placement Ready
+STU0407,Civil,55.6,5.85,73.8,37,63,Good,No,2,Not Placed,Not Placed,13.25,High Risk
+STU0408,E&TC,86.0,9.05,55.3,71,95,Average,Yes,3,Placed,Placed,97.63,Placement Ready
+STU0409,Computer,45.9,4.83,62.1,46,12,Average,No,3,Not Placed,Not Placed,4.84,High Risk
+STU0410,E&TC,95.0,10.0,64.1,2,35,Excellent,No,2,Not Placed,Not Placed,16.06,High Risk
+STU0411,Mechanical,76.6,8.06,86.7,53,11,Good,No,0,Not Placed,Placed,63.93,Moderate
+STU0412,E&TC,75.8,7.98,92.1,4,9,Excellent,Yes,5,Not Placed,Not Placed,22.0,High Risk
+STU0413,Computer,45.0,4.74,93.3,94,47,Average,Yes,1,Placed,Placed,84.72,Placement Ready
+STU0414,Electrical,89.3,9.4,97.3,60,22,Good,No,0,Placed,Placed,94.93,Placement Ready
+STU0415,Civil,41.6,4.38,97.2,37,41,Average,Yes,3,Not Placed,Not Placed,44.25,High Risk
+STU0416,Computer,53.2,5.6,95.7,49,44,Poor,Yes,2,Not Placed,Not Placed,32.19,High Risk
+STU0417,Computer,47.9,5.04,53.4,62,62,Average,Yes,3,Placed,Placed,70.9,Placement Ready
+STU0418,E&TC,82.7,8.71,56.6,26,95,Good,No,5,Placed,Placed,75.05,Placement Ready
+STU0419,Computer,50.9,5.36,64.6,29,85,Poor,Yes,0,Not Placed,Not Placed,26.66,High Risk
+STU0420,Civil,90.1,9.48,76.5,42,38,Excellent,No,1,Placed,Placed,89.73,Placement Ready
+STU0421,E&TC,76.1,8.01,54.7,26,32,Poor,No,3,Not Placed,Not Placed,27.24,High Risk
+STU0422,Civil,42.0,4.42,90.6,76,77,Average,Yes,4,Placed,Placed,78.71,Placement Ready
+STU0423,Electrical,40.3,4.24,79.6,10,12,Good,Yes,3,Not Placed,Not Placed,6.38,High Risk
+STU0424,Electrical,42.8,4.51,76.0,83,54,Poor,No,2,Not Placed,Not Placed,17.8,High Risk
+STU0425,Civil,73.3,7.72,57.9,35,42,Excellent,Yes,3,Placed,Placed,85.68,Placement Ready
+STU0426,Electrical,84.1,8.85,62.2,56,18,Good,No,5,Placed,Placed,91.47,Placement Ready
+STU0427,Electrical,53.1,5.59,57.7,15,62,Poor,No,2,Not Placed,Not Placed,6.91,High Risk
+STU0428,Computer,86.7,9.13,90.9,38,32,Good,No,5,Placed,Placed,92.55,Placement Ready
+STU0429,Civil,43.1,4.54,78.0,76,18,Good,Yes,4,Not Placed,Not Placed,23.93,High Risk
+STU0430,Civil,84.1,8.85,85.3,27,65,Good,No,1,Placed,Placed,91.96,Placement Ready
+STU0431,Civil,91.0,9.58,64.2,13,17,Good,No,1,Not Placed,Not Placed,24.87,High Risk
+STU0432,Computer,82.5,8.68,67.8,52,67,Good,Yes,4,Placed,Placed,97.61,Placement Ready
+STU0433,Civil,78.4,8.25,69.4,16,16,Good,No,1,Not Placed,Not Placed,9.57,High Risk
+STU0434,Civil,86.1,9.06,86.5,31,43,Average,No,2,Not Placed,Not Placed,39.94,High Risk
+STU0435,Computer,42.2,4.44,87.1,45,81,Good,No,1,Placed,Placed,75.64,Placement Ready
+STU0436,E&TC,51.1,5.38,59.9,56,23,Excellent,Yes,3,Not Placed,Not Placed,41.38,High Risk
+STU0437,Electrical,46.9,4.94,95.2,64,77,Good,Yes,1,Placed,Placed,94.58,Placement Ready
+STU0438,Electrical,67.7,7.13,55.8,68,72,Good,Yes,3,Placed,Placed,88.51,Placement Ready
+STU0439,Civil,81.0,8.53,93.0,85,91,Average,Yes,5,Placed,Placed,97.69,Placement Ready
+STU0440,Electrical,74.7,7.86,54.8,6,17,Good,Yes,4,Not Placed,Not Placed,26.04,High Risk
+STU0441,Electrical,86.8,9.14,62.7,36,72,Excellent,No,5,Placed,Placed,96.0,Placement Ready
+STU0442,Mechanical,48.5,5.11,90.6,0,94,Average,Yes,0,Not Placed,Not Placed,21.55,High Risk
+STU0443,E&TC,80.4,8.46,58.6,0,77,Average,No,2,Not Placed,Not Placed,16.43,High Risk
+STU0444,E&TC,50.6,5.33,69.9,21,18,Good,Yes,1,Not Placed,Not Placed,1.48,High Risk
+STU0445,Computer,54.9,5.78,71.6,60,83,Average,Yes,5,Placed,Placed,87.91,Placement Ready
+STU0446,Civil,79.0,8.32,61.8,90,10,Good,Yes,4,Placed,Placed,75.58,Placement Ready
+STU0447,Computer,93.9,9.88,84.1,78,59,Poor,Yes,1,Placed,Placed,96.56,Placement Ready
+STU0448,Mechanical,73.6,7.75,90.9,65,50,Average,No,3,Placed,Placed,90.43,Placement Ready
+STU0449,E&TC,43.0,4.53,92.0,78,53,Good,No,3,Placed,Placed,79.45,Placement Ready
+STU0450,Computer,73.9,7.78,66.3,17,52,Good,No,2,Not Placed,Not Placed,15.64,High Risk
+STU0451,Mechanical,42.3,4.45,75.5,84,3,Good,Yes,2,Not Placed,Not Placed,10.2,High Risk
+STU0452,Mechanical,88.6,9.33,61.9,89,51,Good,No,0,Placed,Placed,93.53,Placement Ready
+STU0453,Civil,79.0,8.32,61.8,9,94,Good,Yes,2,Placed,Placed,60.4,Moderate
+STU0454,Electrical,49.5,5.21,57.7,47,44,Good,No,2,Not Placed,Not Placed,7.72,High Risk
+STU0455,Electrical,45.0,4.74,95.1,83,27,Good,Yes,4,Placed,Placed,88.19,Placement Ready
+STU0456,E&TC,50.1,5.27,92.6,48,100,Good,Yes,5,Placed,Placed,91.71,Placement Ready
+STU0457,Electrical,93.9,9.88,87.3,84,9,Good,Yes,4,Placed,Placed,96.0,Placement Ready
+STU0458,Civil,65.2,6.86,74.8,94,49,Poor,Yes,0,Placed,Placed,64.79,Moderate
+STU0459,Computer,83.1,8.75,73.5,47,51,Average,Yes,5,Placed,Placed,97.76,Placement Ready
+STU0460,Mechanical,75.0,7.89,75.4,6,48,Good,No,2,Not Placed,Not Placed,20.7,High Risk
+STU0461,E&TC,71.5,7.53,75.8,34,93,Excellent,No,2,Placed,Placed,92.84,Placement Ready
+STU0462,E&TC,48.0,5.05,70.9,21,42,Good,No,5,Not Placed,Not Placed,3.4,High Risk
+STU0463,Civil,92.0,9.68,56.3,47,98,Poor,Yes,5,Placed,Placed,98.05,Placement Ready
+STU0464,Mechanical,56.6,5.96,56.0,59,6,Good,No,0,Not Placed,Not Placed,4.74,High Risk
+STU0465,Computer,71.8,7.56,95.7,46,74,Average,Yes,2,Placed,Placed,97.76,Placement Ready
+STU0466,E&TC,78.5,8.26,73.1,19,59,Good,Yes,4,Placed,Placed,81.96,Placement Ready
+STU0467,Civil,75.7,7.97,95.8,30,24,Good,Yes,3,Placed,Placed,70.19,Placement Ready
+STU0468,Mechanical,91.7,9.65,57.9,68,23,Good,Yes,1,Placed,Placed,79.45,Placement Ready
+STU0469,Electrical,48.2,5.07,76.6,2,72,Good,No,3,Not Placed,Not Placed,10.42,High Risk
+STU0470,Civil,68.0,7.16,60.0,21,64,Average,Yes,5,Not Placed,Not Placed,30.85,High Risk
+STU0471,Electrical,62.2,6.55,62.2,90,61,Average,Yes,1,Placed,Placed,60.59,Moderate
+STU0472,E&TC,66.1,6.96,51.4,10,5,Excellent,No,4,Not Placed,Not Placed,19.6,High Risk
+STU0473,Computer,46.6,4.91,55.7,41,60,Good,Yes,4,Not Placed,Not Placed,21.05,High Risk
+STU0474,Mechanical,47.4,4.99,94.0,20,99,Good,No,5,Placed,Placed,50.99,Moderate
+STU0475,Computer,55.3,5.82,65.4,10,1,Average,Yes,1,Not Placed,Not Placed,3.17,High Risk
+STU0476,Civil,56.8,5.98,79.2,42,47,Poor,No,1,Not Placed,Not Placed,7.67,High Risk
+STU0477,Civil,63.5,6.68,72.3,52,49,Poor,No,3,Not Placed,Not Placed,49.07,Moderate
+STU0478,E&TC,73.6,7.75,69.2,17,90,Average,No,3,Not Placed,Not Placed,23.51,High Risk
+STU0479,Electrical,74.9,7.88,75.5,7,28,Average,No,2,Not Placed,Not Placed,9.91,High Risk
+STU0480,Computer,62.6,6.59,59.0,13,48,Excellent,No,4,Placed,Placed,71.15,Placement Ready
+STU0481,Electrical,62.5,6.58,97.5,65,72,Good,No,4,Placed,Placed,94.52,Placement Ready
+STU0482,Computer,52.0,5.47,89.3,86,6,Average,Yes,1,Placed,Placed,62.42,Moderate
+STU0483,Civil,72.4,7.62,85.6,18,80,Poor,Yes,4,Placed,Placed,86.59,Placement Ready
+STU0484,Civil,57.4,6.04,72.5,32,83,Average,No,1,Not Placed,Not Placed,19.66,High Risk
+STU0485,E&TC,42.0,4.42,57.3,34,72,Good,Yes,2,Not Placed,Not Placed,27.28,High Risk
+STU0486,Mechanical,63.0,6.63,94.2,36,65,Average,Yes,0,Placed,Placed,81.06,Placement Ready
+STU0487,Mechanical,66.1,6.96,66.4,24,75,Good,Yes,2,Placed,Not Placed,38.63,High Risk
+STU0488,Computer,52.4,5.52,52.4,5,78,Good,Yes,5,Not Placed,Not Placed,19.63,High Risk
+STU0489,Electrical,71.5,7.53,66.4,53,91,Poor,Yes,2,Placed,Placed,92.22,Placement Ready
+STU0490,Electrical,71.1,7.48,88.1,36,43,Good,No,4,Placed,Placed,64.51,Moderate
+STU0491,Civil,78.6,8.27,79.9,34,46,Excellent,No,0,Placed,Placed,87.26,Placement Ready
+STU0492,Civil,75.6,7.96,86.0,26,64,Average,No,3,Placed,Placed,80.89,Placement Ready
+STU0493,Computer,75.9,7.99,88.1,93,19,Poor,Yes,2,Placed,Placed,96.72,Placement Ready
+STU0494,Mechanical,57.4,6.04,60.2,61,86,Excellent,Yes,4,Placed,Placed,88.6,Placement Ready
+STU0495,Electrical,83.3,8.77,94.3,42,77,Excellent,No,5,Placed,Placed,96.0,Placement Ready
+STU0496,Mechanical,70.2,7.39,71.0,20,63,Good,Yes,3,Placed,Placed,76.98,Placement Ready
+STU0497,Computer,63.7,6.71,80.7,80,30,Good,No,0,Not Placed,Not Placed,19.42,High Risk
+STU0498,E&TC,74.4,7.83,50.1,89,35,Average,Yes,2,Placed,Placed,54.55,Moderate
+STU0499,Civil,59.8,6.29,97.7,3,43,Good,No,0,Not Placed,Not Placed,35.03,High Risk
+STU0500,Electrical,68.2,7.18,63.5,93,66,Average,Yes,2,Placed,Placed,79.1,Placement Ready

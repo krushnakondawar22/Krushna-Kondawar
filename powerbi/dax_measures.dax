@@ -1,0 +1,54 @@
+// Smart College Placement Predictor — DAX Measures
+// Copy each measure into Power BI Desktop: Modeling -> New measure
+
+Total Students =
+COUNT(placement_predictions[Student_ID])
+
+Placement Rate % =
+DIVIDE(
+    CALCULATE(
+        COUNTROWS(placement_predictions),
+        placement_predictions[Predicted_Placement_Status] = "Placed"
+    ),
+    [Total Students],
+    0
+) * 100
+
+Avg Attendance % =
+AVERAGE(placement_predictions[Attendance_Percent])
+
+High Risk Count =
+CALCULATE(
+    COUNTROWS(placement_predictions),
+    placement_predictions[Risk_Level] = "High Risk"
+)
+
+Avg Aptitude Score =
+AVERAGE(placement_predictions[Aptitude_Score])
+
+Placement Ready Count =
+CALCULATE(
+    COUNTROWS(placement_predictions),
+    placement_predictions[Risk_Level] = "Placement Ready"
+)
+
+Moderate Risk Count =
+CALCULATE(
+    COUNTROWS(placement_predictions),
+    placement_predictions[Risk_Level] = "Moderate"
+)
+
+Avg Technical Score =
+AVERAGE(placement_predictions[Technical_Score])
+
+Placed Count =
+CALCULATE(
+    COUNTROWS(placement_predictions),
+    placement_predictions[Predicted_Placement_Status] = "Placed"
+)
+
+Not Placed Count =
+CALCULATE(
+    COUNTROWS(placement_predictions),
+    placement_predictions[Predicted_Placement_Status] = "Not Placed"
+)
